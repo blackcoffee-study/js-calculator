@@ -5,7 +5,7 @@
   <img width="100px;" src="src/images/calculator_icon.png"/>
 </p>
 <h2 align="middle">자바스크립트 계산기</h2>
-<p align="middle">자바스크립트 계산기로 익혀보는 Cypress</p>
+<p align="middle">자바스크립트 계산기로 익혀보는 테스트 코드</p>
 <p align="middle">
   <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
   <img src="https://img.shields.io/badge/language-html-red.svg?style=flat-square"/>
