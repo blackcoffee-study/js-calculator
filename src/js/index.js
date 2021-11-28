@@ -1,4 +1,5 @@
-import viewController from './viewController.js'
-import Calculator from './calculator.js'
+import Caculator from './components/Caclulator.js';
 
-viewController(new Calculator())
+document.addEventListener('DOMContentLoaded', () => {
+  new Caculator();
+});
