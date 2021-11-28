@@ -1,8 +1,8 @@
 export const OPERATOR = {
-  '+': 'ADD',
-  '-': 'SUBTRACT',
-  X: 'MULTIPLY',
-  '/': 'DIVIDE',
+  "+": "ADD",
+  "-": "SUBTRACT",
+  x: "MULTIPLY",
+  "/": "DIVIDE",
 };
 
 export const caculate = {
